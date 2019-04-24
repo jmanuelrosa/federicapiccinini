@@ -2,7 +2,7 @@ baseurl = "https://jmanuelrosa.github.io/federicapiccinini/"
 languageCode = "en-us"
 title = "Hugo Creative Theme"
 theme = "hugo-creative-theme"
-googleAnalytics = ""
+googleAnalytics = "UA-138971999-1"
 publishDir = "docs"
 
 [params]
