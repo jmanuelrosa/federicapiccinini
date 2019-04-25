@@ -69,15 +69,14 @@ publishDir = "docs"
 			description = "Make sure your text is fluid and error-free!"
 
 		[[params.services.list]]
-            icon = "fa-newspaper-o"
+            icon = "fa-chalkboard-teacher"
             title = "Private classes"
             description = "Do you want to learn or improve your English, Spanish or Italian? You're in the right place!"
 
         [[params.services.list]]
             icon = "fa-heart"
             title = "Multi-language websites and blogs"
-            description = "You don't need to look for a developer, a web designer and a translator: here you have a single solution!"
-
+            description = "Share your website with the world!"
 
     # Portfolio modals
 	[params.portfolio.modal]
