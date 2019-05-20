@@ -51,7 +51,6 @@ publishDir = "docs"
 	[params.about]
 		headline    = "Who am I?"
 		description = "I'm Federica Piccinini, a native Italian translator and language lover! With experience in translation and localization, I'll be glad to help you share your ideas with the world! "
-		buttonText  = "Know me better!"
 
 	# Service section
 	[params.services]
